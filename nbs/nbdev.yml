@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_learn"
+  site-url: "https://laprice.github.io/nbdev_learn"
+  description: "testing out the nbdev workflow"
+  repo-branch: main
+  repo-url: "https://github.com/laprice/nbdev_learn"
