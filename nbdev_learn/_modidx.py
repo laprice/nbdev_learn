@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://laprice.github.io',
                 'git_url': 'https://github.com/laprice/nbdev_learn',
                 'lib_path': 'nbdev_learn'},
-  'syms': {'nbdev_learn.core': {'nbdev_learn.core.foo': ('core.html#foo', 'nbdev_learn/core.py')}}}
+  'syms': { 'nbdev_learn.core': {'nbdev_learn.core.foo': ('core.html#foo', 'nbdev_learn/core.py')},
+            'nbdev_learn.oregon_map': {'nbdev_learn.oregon_map.Map': ('oregon_map.html#map', 'nbdev_learn/oregon_map.py')}}}
