@@ -6,4 +6,6 @@ d = { 'settings': { 'branch': 'main',
                 'git_url': 'https://github.com/laprice/nbdev_learn',
                 'lib_path': 'nbdev_learn'},
   'syms': { 'nbdev_learn.core': {'nbdev_learn.core.foo': ('core.html#foo', 'nbdev_learn/core.py')},
-            'nbdev_learn.oregon_map': {'nbdev_learn.oregon_map.Map': ('oregon_map.html#map', 'nbdev_learn/oregon_map.py')}}}
+            'nbdev_learn.oregon_map': { 'nbdev_learn.oregon_map.Map': ('oregon_map.html#map', 'nbdev_learn/oregon_map.py'),
+                                        'nbdev_learn.oregon_map.basemap': ('oregon_map.html#basemap', 'nbdev_learn/oregon_map.py'),
+                                        'nbdev_learn.oregon_map.overlay': ('oregon_map.html#overlay', 'nbdev_learn/oregon_map.py')}}}
